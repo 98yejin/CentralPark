@@ -17,7 +17,7 @@ This project is not for Jenkins administrators, but also their users.
 - Users can view the console output in CentralPark. No need to go to Jenkins.
 - Users cannot change or check any settings.
 
-## Argumetns
+## Config
 
 - port
   - You cannot use the same port as your Jenkins server.

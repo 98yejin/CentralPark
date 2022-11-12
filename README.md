@@ -12,7 +12,7 @@ This project is not for Jenkins administrators, but also their users.
 
 ## Details
 
-- Users must log into CentralPark with their Jenkins account.
+- Users must login to CentralPark with their Jenkins account.
 - Users can see the progress of any job (pipeline). Users can also choose what they want to see.
 - Users can view the console output in CentralPark. No need to go to Jenkins.
 

@@ -15,14 +15,13 @@ This project is not for Jenkins administrators, but also their users.
 - Users must login to CentralPark with their Jenkins account.
 - Users can see the progress of any job (pipeline). Users can also choose what they want to see.
 - Users can view the console output in CentralPark. No need to go to Jenkins.
+- Users cannot change or check any settings.
 
-## Installation
+## Argumetns
 
-not yet
-
-## Running the app
-
-not yet
+- port
+  - You cannot use the same port as your Jenkins server.
+- jenkins_home
 
 ## License
 
